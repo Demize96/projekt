@@ -1,1 +1,3 @@
 Nowa funkcja #1
+
+fix #1
